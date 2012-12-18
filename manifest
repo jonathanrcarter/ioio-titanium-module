@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.3
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: ioio
+moduleid: com.glimworm.app.module.ioio
+guid: c245d4d3-c23e-4ee8-b215-8055c3210d09
+platform: android
+minsdk: 2.1.4.GA
